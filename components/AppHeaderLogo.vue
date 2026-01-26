@@ -11,6 +11,6 @@ const appConfig = useAppConfig()
     class="h-6 w-auto shrink-0"
   />
   <span v-else>
-    {{ appConfig.header?.title || '{appConfig.header.title}' }}
+    test
   </span>
 </template>

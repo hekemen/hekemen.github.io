@@ -4,11 +4,9 @@ description: Personal website of a tech entrepreneur and engineering leader
 navigation: false
 ---
 
-
 <div class="prose max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
-![Huseyin Ekemen](/image.png)
-# 👋 Hi, I’m Huseyin Ekemen
+# Hi, I’m hekemen (huseyin ekemen)
 
 ## Engineering Leader • Startup Founder • Cybersecurity Expert
 
@@ -17,7 +15,7 @@ Founder of multiple startups and passionate about secure-by-design systems, high
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 ### 🏗 Engineering Leadership
 - Engineering management & team scaling
@@ -37,16 +35,22 @@ Founder of multiple startups and passionate about secure-by-design systems, high
 - Zero Trust & enterprise security architecture
 ---
 
-## 🧩 Projects
+## Projects
 
 ### **PDAccess**
 Next-generation **IAM & PAM platform** focused on simplicity, security, and modern cloud environments.
-
+[pdaccess](https://www.pdaccess.com)
 ### **NetBox**
 High-performance **DDoS protection solution** for websites and online services.
+[netbox](https://github.com/h2hsecure/netbox)
 
 ### **SSH Key Management**
-High-performance **DDoS protection solution** for websites and online services.
+SSH key management between multiple servers and users 
+[sshkeyman](https://github.com/h2hsecure/sshkeyman)
+
+### **DNS Relay**
+DNS protection software for malicious softwares and malwares
+[dns relay](https://github.com/h2hsecure/dnsrelay)
 
 ---
 
@@ -70,15 +74,7 @@ I occasionally write about:
 - Background in cybersecurity & telecom
 - Bachelor’s degree in Computer Science
 
-👉 View my [Resume](/resume)
-
----
-
-## 📫 Get in Touch
-
-- 💼 [LinkedIn](https://linkedin.com/in/huseyinekemen)
-- 🐙 [GitHub](https://github.com/hekemen)
-- ✉️ huseyinekemen@gmail.com
+👉 [Resume](/resume)
 
 ---
 

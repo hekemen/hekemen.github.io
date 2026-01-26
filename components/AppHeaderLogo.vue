@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { useAppConfig } from 'nuxt/app';
+
 const appConfig = useAppConfig()
 </script>
 

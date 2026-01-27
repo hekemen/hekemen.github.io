@@ -1,3 +1,5 @@
+import { definePageMeta } from "nuxt/app";
+
 <script setup lang="ts">
 definePageMeta({
   layout: 'custom',

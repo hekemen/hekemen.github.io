@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useAppConfig } from 'nuxt/app';
+import { computed } from 'vue';
 
 const appConfig = useAppConfig()
 

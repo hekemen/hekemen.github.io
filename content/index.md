@@ -2,6 +2,7 @@
 title: Huseyin Ekemen
 description: Personal website of a tech entrepreneur and engineering leader
 navigation: false
+header: false
 ---
 
 <div class="prose max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

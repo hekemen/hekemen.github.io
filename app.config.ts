@@ -1,5 +1,3 @@
-import { defineAppConfig } from "nuxt/app";
-
 export default defineAppConfig({
   docus: {
     locale: 'en', // Set your single-language locale

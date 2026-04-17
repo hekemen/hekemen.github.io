@@ -9,4 +9,4 @@ Engineering leader with 20+ years of experience building and scaling products in
 
 Founder of multiple startups and passionate about secure-by-design systems, high-performing teams, and pragmatic architecture.
 
-[About Me](/about)
+[About Me](#/about)

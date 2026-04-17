@@ -47,7 +47,7 @@ I occasionally write about:
 - Startup lessons learned
 - Technology trade-offs
 
-Check out the [Blog](/blog) or [Notes](/notes)
+Check out the [Blog](#/blog)
 
 ---
 
@@ -58,4 +58,3 @@ Check out the [Blog](/blog) or [Notes](/notes)
 - Background in cybersecurity & telecom
 - Bachelor's degree in Computer Science
 
-[Resume](/resume)
